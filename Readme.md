@@ -17,6 +17,9 @@ I'm a Data Engineer at **[@GE Healthcare](https://www.ge.com/in/healthcare)** ba
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="MySQL" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="MySQL" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="MySQL" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="MySQL" width="40" height="40" />
+  
 </p>
 
 <!--
